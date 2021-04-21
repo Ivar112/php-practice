@@ -8,7 +8,7 @@
 </head>
 <body>
 
-    Hallo daar!
+    Hallo daar allemaal!
 
     <?php require './libs/content.php'; ?>
 
