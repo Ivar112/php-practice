@@ -7,6 +7,9 @@
     <title>Document</title>
 </head>
 <body>
+
+    Hallo daar!
+
     <?php require './libs/content.php'; ?>
 
    <?= $name; ?>
